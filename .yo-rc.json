@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "swaggertest1",
+    "repo": "dhuffer/swaggertest1",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
